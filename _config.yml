@@ -1,0 +1,51 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+github: [Repository metadata]
+
+# Permalinks
+permalink:        /:categories/:year/:title
+relative_permalinks: true
+
+# Setup
+title:            robino 
+tagline:          the nerd came out to play
+description:    the nerd came out to play
+url:              https://robokow.github.io
+baseurl:         /
+
+author:		robino robokow
+#  name:           'Mark Otto'
+url:            /
+
+paginate:         5
+
+# Custom vars
+# version:          2.1.0
+
+# github:	
+#  repo:           https://github.com/robokow/robokow.github.io
+
+# Site owner
+owner:
+  name: Robino
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname:
+  twitter: robokow
+  facebook: #username
+  github: #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: robino
+  tumblr: #username
+  google:
+    plus: +robinorobokow
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
+
+
