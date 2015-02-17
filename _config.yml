@@ -8,14 +8,13 @@ permalink:        /:categories/:year/:title
 relative_permalinks: true
 
 # Setup
-title:            robino 
-tagline:          the nerd came out to play
-description:    the nerd came out to play
-url:              https://robokow.github.io
+title:            guaka
+tagline:          life is too important to be taken seriously
+description:      life is too important to be taken seriously
+url:              https://guaka.github.io
 baseurl:         /
 
-author:		robino robokow
-#  name:           'Mark Otto'
+author:		Kasper Souren
 url:            /
 
 paginate:         5
@@ -24,24 +23,24 @@ paginate:         5
 # version:          2.1.0
 
 # github:	
-#  repo:           https://github.com/robokow/robokow.github.io
+#  repo:           https://github.com/guaka/guaka.github.io
 
 # Site owner
 owner:
-  name: Robino
+  name: Kasper Souren
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
-  twitter: robokow
+  twitter: guaka
   facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  github: guakak
+  stackexchange: http://stackoverflow.com/users/1245190/kasper-souren
   linkedin: #username
   instagram: #username
-  flickr: robino
+  flickr: guaka
   tumblr: #username
   google:
-    plus: +robinorobokow
+    plus: +KasperSouren
     analytics:
     verify:
     ad-client:
